@@ -2,6 +2,8 @@
 
 [Release Link](https://github.com/Dranemo/Releases/releases/tag/GalacticPolice)
 
+Launch ```main.py``` to launch the game.
+
 ## Table of Content
 
 1. [Français](#Francais)
